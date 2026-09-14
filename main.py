@@ -1,6 +1,6 @@
 import json
 import os
-import random
+import random2
 
 # ============================================================
 # NEXORA — STAGE 12
